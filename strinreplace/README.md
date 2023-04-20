@@ -1,6 +1,6 @@
 # FtoC
 
-A PyPi module allowing the users' code to navigate to aliased line number within the Python interpreter
+A PyPi module allowing the users' code to navigate to aliased line number within the Python interpreter!
 
 ![Generic badge](https://img.shields.io/badge/version-0.0.1-green.svg)
 
